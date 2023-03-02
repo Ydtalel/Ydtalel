@@ -1,16 +1,18 @@
-### Hi there 👋
+### Привет!👋
+#### Я Юрий Мироненко, разработчик на python.
+![Я Юрий Мироненко, разработчик на python.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<div id="header" align="center">
+  <img src="https://top-fon.com/uploads/posts/2023-02/1675307892_top-fon-com-p-programmirovanie-fon-dlya-prezentatsii-1.jpg" width="100"/>
+</div>
 
-<!--
-**Ydtalel/Ydtalel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мой стек
 
-Here are some ideas to get you started:
+ Windows/Python/Django Framework/PostgreSQL/Git/HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Сейчас я прохожу обучение в  Нетологии 
+- 🌱Я изучаю  Python, Django 
+
+
+
+
+
