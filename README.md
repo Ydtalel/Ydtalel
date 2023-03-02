@@ -5,18 +5,13 @@
 Мои навыки:
 
 <div id="header" align="center">
-  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/919852.png" width="100"/>
-  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/git-bash.svg" width="100"/>
-  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/in456456dex.png" width="100"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/919852.png" width="75"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/git-bash.svg" width="75"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/in456456dex.png" width="75"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/indedfgdx.png" width="75"/>
+  <img src="(https://github.com/Ydtalel/Ydtalel/blob/main/index.png" width="75"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/i5445dex.png" width="75"/>
 </div>
-
-
-
-
-![Python](https://github.com/Ydtalel/Ydtalel/blob/main/919852.png) ![Git](https://github.com/Ydtalel/Ydtalel/blob/main/git-bash.svg) ![HTML](https://github.com/Ydtalel/Ydtalel/blob/main/in456456dex.png)
-
-![CSS](https://github.com/Ydtalel/Ydtalel/blob/main/indedfgdx.png) ![MySQL](https://github.com/Ydtalel/Ydtalel/blob/main/index.png) ![PostgreSQL](https://github.com/Ydtalel/Ydtalel/blob/main/indsfsdfdex.png)
-
 
 
 - 🔭 Сейчас я прохожу обучение в  Нетологии 
