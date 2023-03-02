@@ -5,9 +5,9 @@
 Мои навыки:
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Ydtalel/Ydtalel/blob/main/919852.png)" width="100"/>
-  <img src="[https://github.com/Ydtalel/Ydtalel/blob/main/919852.png](https://github.com/Ydtalel/Ydtalel/blob/main/git-bash.svg))" width="100"/>
-  <img src="[https://github.com/Ydtalel/Ydtalel/blob/main/919852.png](https://github.com/Ydtalel/Ydtalel/blob/main/in456456dex.png))" width="100"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/919852.png" width="100"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/git-bash.svg" width="100"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/in456456dex.png" width="100"/>
 </div>
 
 
