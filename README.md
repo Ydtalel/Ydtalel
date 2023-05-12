@@ -24,6 +24,7 @@
 - [Профессиональна раобота с Python](https://github.com/Ydtalel/Ydtalel/blob/main/certificate7.pdf)
 - [Базы данных для python разработчиков](https://github.com/Ydtalel/Ydtalel/blob/main/certificate%20(1121212).pdf)
 - [Git - система контроля версий](https://github.com/Ydtalel/Ydtalel/blob/main/certificate%20git.pdf)
+- [Django: создание функциональных веб-приложений](https://github.com/Ydtalel/Ydtalel/blob/main/certificate-django.pdf)
 
 -----------
 
