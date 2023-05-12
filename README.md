@@ -30,6 +30,6 @@
 
 -----------
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](ydtalel.github.io/CV-site/)     
+[сайт-резюме](ydtalel.github.io/CV-site/)     
 ---------
 [![Статистика](https://github-readme-stats.vercel.app/api?username=Ydtalel)](https://github.com/anuraghazra/github-readme-stats)
