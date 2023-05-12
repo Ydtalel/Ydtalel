@@ -11,6 +11,8 @@
   <img src="https://github.com/Ydtalel/Ydtalel/blob/main/indedfgdx.png" width="50"/>
   <img src="https://github.com/Ydtalel/Ydtalel/blob/main/78787.png" width="50"/>
   <img src="https://github.com/Ydtalel/Ydtalel/blob/main/i5445dex.png" width="50"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/drf.png" width="50"/>
+  <img src="https://github.com/Ydtalel/Ydtalel/blob/main/django.png" width="50"/>
 </div>
 
 ----------
