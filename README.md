@@ -30,6 +30,6 @@
 
 -----------
 
-[сайт-резюме](ydtalel.github.io/CV-site/)     
+[сайт-резюме](https://ydtalel.github.io/CV-site/)     
 ---------
 [![Статистика](https://github-readme-stats.vercel.app/api?username=Ydtalel)](https://github.com/anuraghazra/github-readme-stats)
