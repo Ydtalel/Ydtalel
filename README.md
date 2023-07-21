@@ -18,7 +18,7 @@
 ----------
  🔭 Сейчас я прохожу обучение в  Нетологии 
  
- 🌱Я изучаю  Python, Django 
+ 🌱Я изучаю  Python, Django ,JS
 
 Сертификаты Нетологии
 
@@ -27,9 +27,11 @@
 - [Базы данных для python разработчиков](https://github.com/Ydtalel/Ydtalel/blob/main/certificate%20(1121212).pdf)
 - [Git - система контроля версий](https://github.com/Ydtalel/Ydtalel/blob/main/certificate%20git.pdf)
 - [Django: создание функциональных веб-приложений](https://github.com/Ydtalel/Ydtalel/blob/main/certificate-django.pdf)
+- [HTML&CSS](https://github.com/Ydtalel/Ydtalel/blob/main/certificate-htmlcss.pdf)
 
 -----------
 
-[сайт-резюме](https://ydtalel.github.io/CV-site/)     
+[сайт-резюме](https://ydtalel.github.io/CV-site/)  
+[верстка с макета](https://ydtalel.github.io/Noemi/)   
 ---------
 [![Статистика](https://github-readme-stats.vercel.app/api?username=Ydtalel)](https://github.com/anuraghazra/github-readme-stats)
